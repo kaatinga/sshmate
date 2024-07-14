@@ -27,14 +27,6 @@ var addCmd = &cobra.Command{
 	},
 }
 
-var deleteCmd = &cobra.Command{
-	Use:   "delete",
-	Short: "Delete an existing SSH key pair",
-	Run: func(cmd *cobra.Command, args []string) {
-		fmt.Println("TBI")
-	},
-}
-
 var listKeysCmd = &cobra.Command{
 	Use:   "list",
 	Short: "List all added SSH key pairs",
