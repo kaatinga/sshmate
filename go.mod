@@ -6,7 +6,7 @@ require (
 	github.com/buger/goterm v1.0.4
 	github.com/jedib0t/go-pretty/v6 v6.7.5
 	github.com/kaatinga/gocliselect v0.0.0-20251116041101-1c8d4d708ca8
-	github.com/spf13/cobra v1.10.1
+	github.com/spf13/cobra v1.10.2
 	golang.org/x/crypto v0.45.0
 )
 
